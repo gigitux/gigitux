@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luigi, a 25 years old software engineer based in Naples 🇮🇹 🌊 with 5+ years of experience specialized in Web development. I'm currently working at Automattic.
+I'm Luigi, a 26 years old software engineer based in Naples 🇮🇹 🌊 with 5+ years of experience specialized in Web development. I'm currently working at Automattic.
 
 I love Open Source and community events where I have participated as an attendee as well as a speaker (Linux Day, Merge-it)
 
